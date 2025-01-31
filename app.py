@@ -5,7 +5,7 @@ import csv
 from io import StringIO
 
 # Hardcoded password for login
-CORRECT_PASSWORD = "password123"
+CORRECT_PASSWORD = st.secrets["PASSWORD"]
 
 # -----------------------------------------------
 # Password Check Page
