@@ -4,7 +4,7 @@ import json
 import csv
 from io import StringIO
 
-# Hardcoded password (for simplicity; not secure for production!)
+# Hardcoded password for login
 CORRECT_PASSWORD = "password123"
 
 # -----------------------------------------------
